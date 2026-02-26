@@ -6,6 +6,7 @@ This is a sunfish themed led chaser that was made during the HackClub Sleepover 
 
 
 ## PCB
+<img width="519" height="533" alt="image" src="https://github.com/user-attachments/assets/156a419c-bb95-4ba2-be73-4f119d5f1fc1" />
 
 
 
