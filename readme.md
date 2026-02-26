@@ -7,4 +7,4 @@ This is a sunfish themed led chaser that was made during the HackClub Sleepover 
 
 
 #### Reviewer?
-please read Led-Chaser/reviewers.md
+please read reviewers.md
