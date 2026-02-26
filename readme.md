@@ -10,6 +10,15 @@ This is a sunfish themed led chaser that was made during the HackClub Sleepover 
 
 <img width="728" height="625" alt="image" src="https://github.com/user-attachments/assets/436ce79a-49ec-4968-84aa-61db27286891" />
 
+## BOM
+- x9 Red Leds
+- x1 555 timer IC
+- x1 330ohm resistor
+- x1 10 uFCapacitor
+- x1 100k Variable Resistor
+- x1 push button
+- x1 10k resistor
+- x1 9v battery holder clip
 
 
 #### Reviewer?
