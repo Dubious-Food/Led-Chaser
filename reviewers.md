@@ -1,5 +1,5 @@
 # Hello
-## Lapse graphics unmerged with hackatime:
+## Lapse graphics videos unmerged with hackatime:
 1. https://lapse.hackclub.com/timelapse/RPYd-vPab1EV
    - Starting silkscreen, 30 minutes
 2. https://lapse.hackclub.com/timelapse/-GCxuvmO6Afc
